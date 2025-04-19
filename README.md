@@ -5,6 +5,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 - [Documentação GitHub](https://www.docs.github.com)
 ## 🖥️ Resumos das Aulas
 | Aulas | Resumos |
+
 |.......|.........|
 | Gravando Alterações no Repositório Local | [Resumos]() |
 ```
